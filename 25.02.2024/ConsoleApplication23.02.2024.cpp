@@ -29,7 +29,7 @@ int main()
 
 	// task 3
 
-	 
+	/* 
 	int num, denum = 0, n = 1, look;
 	cout << "input a number: ";
 	cin >> num;
@@ -45,7 +45,7 @@ int main()
 		num = num / 10;
 	}
 	cout << denum << endl;
-	
+	*/
 
 	// task 4
 
