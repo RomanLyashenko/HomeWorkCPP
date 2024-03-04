@@ -4,3 +4,4 @@
 [16.02.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/16.02.2024/homework.cpp) - работа с условиями <br>
 [25.02.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/25.02.2024/ConsoleApplication23.02.2024.cpp) - циклы <br>
 [26.02.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/26.02.2024/homework.cpp) - работа с условиями
+[04.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/4.03.2024/homework.cpp) - циклы
