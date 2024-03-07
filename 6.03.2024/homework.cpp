@@ -84,7 +84,8 @@ int main()
     
     // task 4
 
-    int n, sum=0;
+    const int SIZE = n; 
+    int sum=0;
     cout << "how many number will be in an array: ";
     cin >> n;
     int *array=new int[n];
