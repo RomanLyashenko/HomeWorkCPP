@@ -7,4 +7,5 @@
 [04.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/4.03.2024/homework.cpp) - циклы <br>
 [09.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/09.03.2024/ConsoleApplication.cpp) - вложенные циклы <br>
 [11.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/11.03.2024/ConsoleApplication2.cpp) - массивы <br>
-[22.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/22.03.2024/22.03.2024.cpp) - двумерные массивы
+[22.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/22.03.2024/22.03.2024.cpp) - двумерные массивы <br>
+[24.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/24.03.2024/24.03.2024.cpp) - массивы повторение <br>
