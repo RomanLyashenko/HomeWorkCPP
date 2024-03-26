@@ -24,12 +24,12 @@ int main()
 				cout << a << " coordinates " << "(part " << b++ << "): ";
 				cin >> c;
 				array2[i][j] = c;
-				if (c > 5 || c < 0)
+				if (c > 4 || c < 0)
 				{
 					cout << "ERROR." << endl << "incorrect coordinates." << endl;
 					b = b--;
 				}
-			} while (c > 5 || c < 0);
+			} while (c > 4 || c < 0);
 		}
 		b = 1;
 		cout << endl;
