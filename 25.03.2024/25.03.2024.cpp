@@ -34,7 +34,7 @@ int main()
 		b = 1;
 		cout << endl;
 	}
-	// превращение в нули
+
 	for (int i = 0, height, width; i < SIZE3; i++) {
 		for (int j = 0; j < SIZE2; j++) {
 			height = array2[i][0];
