@@ -9,3 +9,4 @@
 [11.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/11.03.2024/ConsoleApplication2.cpp) - массивы <br>
 [22.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/22.03.2024/22.03.2024.cpp) - двумерные массивы <br>
 [24.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/24.03.2024/24.03.2024.cpp) - массивы повторение <br>
+[25.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/25.03.2024/25.03.2024.cpp) - двумерные массивы (попросить помощи у ИС)
