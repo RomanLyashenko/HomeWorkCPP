@@ -8,6 +8,7 @@ int main()
 	const int SIZE2 = 2;
 	const int SIZE3 = 8;
 	int array[SIZE][SIZE];
+	int array1[SIZE][SIZE]{};
 	int array2[SIZE3][SIZE2];
 	for (int i = 0; i < SIZE; i++) {
 		for (int j = 0; j < SIZE; j++) {
@@ -43,10 +44,25 @@ int main()
 		}
 	}
 
+	for (int i = 0, a = 0, b = 0; i < SIZE; i++) {
+		for (int j = 0; j < SIZE; j++) {
+			if (array[i][j]) {
+				array1[a][b] = array[i][j];
+				if (b == SIZE - 1) {
+					b = 0;
+					a++;
+				}
+				else b++;
+			}
+		}
+
+	}
+
 	for (int i = 0; i < SIZE; i++) {
 		for (int j = 0; j < SIZE; j++) {
-			cout << array[i][j] << " ";
+			cout << array1[i][j] << " ";
 		}
 		cout << endl;
 	}
+	cout << endl;
 }
