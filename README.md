@@ -10,4 +10,5 @@
 [22.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/22.03.2024/22.03.2024.cpp) - двумерные массивы <br>
 [24.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/24.03.2024/24.03.2024.cpp) - массивы повторение <br>
 [25.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/25.03.2024/25.03.2024.cpp) - двумерные массивы<br>
-[26.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - функции
+[26.03.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/26.03.2024/26.03.2024.cpp) - функции <br>
+[06.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/06.04.2024/06.04.2024.cpp) - сортировка
