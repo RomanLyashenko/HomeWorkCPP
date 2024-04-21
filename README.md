@@ -14,3 +14,4 @@
 [06.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/06.04.2024/06.04.2024.cpp) - сортировка <br>
 [10.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/10.04.2024/10.04.2024.cpp) - ходы коня <br>
 [15.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/15.04.2024/15.04.2024.cpp) - задача на удаление элементов из массива <br>
+[20.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/20.04.2024/20.04.2024.cpp) - повторение
