@@ -16,4 +16,5 @@
 [15.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/15.04.2024/15.04.2024.cpp) - задача на удаление элементов из массива <br>
 [20.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/20.04.2024/20.04.2024.cpp) - повторение <br>
 [28.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/28.04.2024/28.04.2024.cpp) - вставка одного массива в другой <br>
-[01.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/01.06.2024) - повторение материала
+[01.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/01.06.2024) - повторение материала <br>
+[17.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/17.06.2024/17.06.2024.cpp) - строки
