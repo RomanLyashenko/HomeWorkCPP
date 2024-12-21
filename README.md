@@ -18,4 +18,5 @@
 [28.04.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/28.04.2024/28.04.2024.cpp) - вставка одного массива в другой <br>
 [01.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/01.06.2024) - повторение материала <br>
 [17.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/17.06.2024/17.06.2024.cpp) - строки <br>
-[25.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/25.06.2024) - игра камень ножницы бумага (работа с файлами)
+[25.06.2024](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/25.06.2024) - игра камень ножницы бумага (работа с файлами) <br>
+[21.12.2024]() - структуры <br>
