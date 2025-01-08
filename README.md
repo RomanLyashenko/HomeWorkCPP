@@ -24,4 +24,4 @@
 [07.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/blob/main/07.01.2025/07.01.2025.cpp) - повторение структур <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - введение в ООП <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - ООП <br>
-[08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - квартиры <br>
+[08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - многоквартирный дом <br>
