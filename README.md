@@ -25,3 +25,4 @@
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/fraction) - введение в ООП <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/advancedFraction) - ООП <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - многоквартирный дом <br>
+[08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/animals) - животные <br>
