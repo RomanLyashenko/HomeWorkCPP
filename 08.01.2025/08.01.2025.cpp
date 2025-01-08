@@ -1,20 +1,19 @@
 ﻿#include <iostream>
-#include "Fraction.h"
+#include <string>
+#include "Human.h"
+#include "Date.h"
+#include "Lift.h"
 using namespace std;
+
 
 int main()
 {
-	Fraction obj1(10, 5);
-	Fraction obj2(8, 2);
-	obj1.printFraction();
-	cout << " ";
-	obj2.printFraction();
-	cout << endl;
-	obj1.sum(obj2);
-	cout << endl;
-	obj1.minus(obj2);
-	cout << endl;
-	obj1.multiplication(obj2);
-	cout << endl;
-	obj1.division(obj2);
+	Date date1(10, 10, 1964);
+	Human human1(1, "Oleg", "Olegivenko", "Alex", date1);
+	human1.countHumans();
+	human1.printHuman();
+	Lift lift(1, 10);
+	lift.liftOn();
+	lift.setCurrentFloor(5);
+	cout << lift.getCurrentFloor();
 }
