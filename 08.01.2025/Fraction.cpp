@@ -5,6 +5,11 @@ Fraction::Fraction(int num, int denom)
 	this->denom = denom;
 }
 
+Fraction::~Fraction()
+{
+
+}
+
 int Fraction::getNum()
 {
 	return this->num;
@@ -84,7 +89,22 @@ void Fraction::division(Fraction obj2)
 	std::cout << " = " << divNum << "/" << divDenom;
 }
 
-Fraction::~Fraction()
+void Fraction::operator+(Fraction& fraction)
 {
+	this->sumFraction(fraction);
+}
 
+void Fraction::operator-(Fraction& fraction)
+{
+	this->minusFraction(fraction);
+}
+
+void Fraction::operator*(Fraction& fraction)
+{
+	this->multFraction(fraction);
+}
+
+void Fraction::operator/(Fraction& fraction)
+{
+	this->divFraction(fraction);
 }

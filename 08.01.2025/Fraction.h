@@ -8,6 +8,7 @@ private:
 	int denom;
 public:
 	Fraction(int, int);
+	~Fraction();
 	int getNum();
 	int getDenom();
 	void setNum(int);
@@ -17,5 +18,9 @@ public:
 	void minus(Fraction);
 	void multiplication(Fraction);
 	void division(Fraction);
-	~Fraction();
+	void operator+(Fraction&);
+	void operator-(Fraction&);
+	void operator*(Fraction&);
+	void operator/(Fraction&);
 };
+
