@@ -27,4 +27,4 @@
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/08.01.2025) - многоквартирный дом <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/animals) - животные <br>
 [08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/binaryTree) - бинарное дерево <br>
-[08/01/2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/Queue) - очередь <br>
+[08.01.2025](https://github.com/RomanLyashenko/HomeWorkCPP/tree/main/Queue) - очередь <br>
